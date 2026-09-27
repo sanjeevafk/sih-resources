@@ -1,32 +1,30 @@
-# 🏆 Smart India Hackathon (SIH) 2026 – Curated Resources Hub
+# Smart India Hackathon (SIH) Resources
 
-A clean, deduplicated, and organized collection of official guidelines, strategy playbooks, problem statements, and benchmark winning presentations for Smart India Hackathon preparation.
+A curated collection of official guidelines, strategy playbooks, problem statements, and benchmark winning presentations for Smart India Hackathon preparation.
 
----
+## Directory Structure
 
-## 📂 Directory Structure
+### 01_official_guidelines_and_templates
+Official submission templates, rules, and problem statement documentation:
+* `SIH2026-IDEA-Presentation-Format.pptx`: Official presentation format required for idea submissions.
+* `SIH_2026_Guidelines.pdf`: Competition process, round progression, eligibility, and judging rules.
+* `SIH2026-Guidelines-College-SPOC-updated.pdf`: Guidelines for college SPOC verification and team nominations.
+* `SIH_2026_Problem_Statements.pdf`: Official PDF directory of problem statements.
+* `sih_2026_problem_statements_all_226.txt`: Plaintext transcript of all 226 problem statements, including backgrounds, requirements, and expected deliverables.
 
-### 📁 `01_official_guidelines_and_templates/`
-Official compliance documents, presentation formats, and comprehensive problem statements:
-* `SIH2026-IDEA-Presentation-Format.pptx` – Official presentation template required for preliminary rounds.
-* `SIH_2026_Guidelines.pdf` – Standard competition guidelines, eligibility rules, and evaluation stages.
-* `SIH2026-Guidelines-College-SPOC-updated.pdf` – College Single Point of Contact (SPOC) nomination and team forwarding instructions.
-* `SIH_2026_Problem_Statements.pdf` – Official compilation of ministry and corporate problem statements.
-* `sih_2026_problem_statements_all_226.txt` – Full searchable text breakdown of all 226 official problem statements with background and expected outcomes.
+### 02_playbooks_and_guides
+Preparation frameworks, diagramming guidelines, and hackathon playbooks:
+* `SIH_2026_Playbook_TechDoodles_Final.pdf`: End-to-end preparation roadmap and slide construction guide.
+* `SIH 2026 - Ultimate AI & Hackathon Toolkit.pdf`: Recommended developer tools, APIs, and AI utilities.
+* `SIH_2026_AI_Diagram_Tools_and_PPT_Rules.pdf`: Architecture diagram specifications and presentation formatting standards.
+* `SIH_PPT_Expert_Review_Playbook_REVIEWED_v2.docx`: Slide evaluation rubrics, presentation flow, and reviewer focus areas.
+* `SIH 2026 - Easy vs Difficult Problem Statements.pdf`: Problem statement complexity classification and selection strategy.
+* `SIH_Winners_Vault_Techdoodles.pdf`: Hackathon strategies and execution tactics.
+* `github_repositories_to_boost_your_hackathon.pdf`: Open-source repositories and starter templates for hackathons.
+* `SIH_Resources.docx.pdf` / `SIH_Resources-2026-13-09-02-33-14.docx`: Additional resource lists and reference links.
 
-### 📁 `02_playbooks_and_guides/`
-Execution strategy, deck storytelling, diagram generation, and toolkit references:
-* `SIH_2026_Playbook_TechDoodles_Final.pdf` – Comprehensive roadmap and scoring guide for SIH teams.
-* `SIH 2026 - Ultimate AI & Hackathon Toolkit.pdf` – AI tools, prototyping resources, and speed-development toolkits.
-* `SIH_2026_AI_Diagram_Tools_and_PPT_Rules.pdf` – Rules and recommended tools for creating high-impact system architecture diagrams.
-* `SIH_PPT_Expert_Review_Playbook_REVIEWED_v2.docx` – Evaluator review rubric and pitching insights.
-* `SIH 2026 - Easy vs Difficult Problem Statements.pdf` – Analysis of problem statement complexity and competition levels.
-* `SIH_Winners_Vault_Techdoodles.pdf` – Curated vault of hackathon frameworks and winning tactics.
-* `github_repositories_to_boost_your_hackathon.pdf` – Handpicked open-source repositories to accelerate prototyping.
-* `SIH_Resources.docx.pdf` / `SIH_Resources-2026-13-09-02-33-14.docx` – Supplemental reference materials and links.
-
-### 📁 `03_winning_presentations_reference/`
-19 verified winning pitch decks from SIH 2023–2025 across multiple themes (Healthcare, Automation, Clean Tech, Rural Tech, Waste Management):
+### 03_winning_presentations_reference
+19 reference decks from winning teams across SIH 2023 to 2025:
 * `SIH_2025_GeoGuards_High_Quality.pdf`
 * `SIH_2025_Tech_Pioneers_High_Quality.pdf`
 * `SIH_2025_Team_SafeSecure.pdf`
@@ -41,13 +39,8 @@ Execution strategy, deck storytelling, diagram generation, and toolkit reference
 * `SIH_2024_Presentation_High_Quality_Clean.pdf`
 * `SIH_2024_Shokha_Baba_Buffet_High_Quality.pdf`
 * `SIH_2024_Tech_Busters_High_Quality.pdf`
-* `SIH_2024_Techbyte_High_Quality.pdf`
 * `SIH_2024_Tech_Titans_High_Quality.pdf`
+* `SIH_2024_Techbyte_High_Quality.pdf`
 * `SIH_2023_Presentation_Clean.pdf`
 * `SIH_2023_Techies_Travel_High_Quality.pdf`
 * `Vadodara_Hackathon_6_0_Anonymous_Bits.pdf`
-
----
-
-## 🔒 Privacy Notice
-This repository contains strictly public guidelines, strategy guides, and anonymized reference decks. No team identity documents (e.g. Aadhaar cards) or internal team pitch credentials are included.
