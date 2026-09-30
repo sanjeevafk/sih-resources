@@ -10,7 +10,7 @@ Official submission templates, rules, and problem statement documentation:
 * `SIH_2026_Guidelines.pdf`: Competition process, round progression, eligibility, and judging rules.
 * `SIH2026-Guidelines-College-SPOC-updated.pdf`: Guidelines for college SPOC verification and team nominations.
 * `SIH_2026_Problem_Statements.pdf`: Official PDF directory of problem statements.
-* `sih_2026_problem_statements_all_226.txt`: Plaintext transcript of all 226 problem statements, including backgrounds, requirements, and expected deliverables.
+* `sih_2026_problem_statements_all_226.txt`: Plaintext transcript of the 226 problem statements captured at snapshot time, including backgrounds, requirements, and expected deliverables. **Note:** this is a dated snapshot — SIH 2026 still adds statements through September, and the official 2026 edition runs to **240 statements across 17 themes** (182 software + 58 hardware). Treat the `.txt` as the 226-statement baseline and check `SIH_2026_Problem_Statements.pdf` / the portal for the current total.
 
 ### 02_playbooks_and_guides
 Preparation frameworks, diagramming guidelines, and hackathon playbooks:
@@ -44,6 +44,7 @@ Preparation frameworks, diagramming guidelines, and hackathon playbooks:
 * `SIH_2024_Tech_Busters_High_Quality.pdf`
 * `SIH_2024_Tech_Titans_High_Quality.pdf`
 * `SIH_2024_Techbyte_High_Quality.pdf`
-* `SIH_2023_Presentation_Clean.pdf`
+* `SIH_2023_Nyaysathi_Legal_Awareness.pdf`: SIH 2023 · PS SIH1283 · Digital Assistant for Legal Awareness + KYC framework · app "Nyaysathi" (Smart Education).
 * `SIH_2023_Techies_Travel_High_Quality.pdf`
+* `SIH_2024_StarFleet_RoboticsAndDrones.pdf`: SIH 2024 · PS SIH25134 · Team StarFleet · drones/robots for medical emergencies & search-rescue (Robotics and Drones).
 * `Vadodara_Hackathon_6_0_Anonymous_Bits.pdf`
