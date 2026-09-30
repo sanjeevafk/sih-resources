@@ -26,10 +26,8 @@ Preparation frameworks, diagramming guidelines, and hackathon playbooks:
 * `ZaidSayyed_SIH2026_Internal_Round_Notes.md`: Full scraped notes with source links from [zaidsayyed.in/blog/sih-2026-internal-hackathon-guide](https://zaidsayyed.in/blog/sih-2026-internal-hackathon-guide) — college internal round playbook: 45-team quota math, faculty psychology, 7-day action plan, viva defense sheet, and 18 jury questions.
 
 ### 03_winning_presentations_reference
-19 reference decks from winning teams across SIH 2023 to 2025, plus 3 SIH 2025 decks from Zaid Sayyed's SIH 2026 playbook blog:
-* `ZaidSayyed_SIH25_PPT1_TeamSafeSecure_DataWiping.pdf`: SIH25070 · Secure Data Wiping for Trustworthy IT Asset Recycling · Team Niet - SafeSecure
+19 reference decks from winning teams across SIH 2023 to 2025, plus a unique SIH 2025 deck (MAITRI) downloaded from Zaid Sayyed's SIH 2026 playbook blog. The blog's other two decks already exist here as `SIH_2025_Team_SafeSecure.pdf` and `SIH_2025_Tech_Pioneers_High_Quality.pdf`:
 * `ZaidSayyed_SIH25_PPT2_ZillionMinds_MAITRI.pdf`: SIH25175 · MAITRI: An AI Assistant for the Well-Being of Astronauts · Team Zillion Minds
-* `ZaidSayyed_SIH25_PPT3_TechPioneers_Rockfall.pdf`: SIH25071 · AI-Based Rockfall Prediction and Alert System for Open-Pit Mines · Team TechPioneers
 * `SIH_2025_GeoGuards_High_Quality.pdf`
 * `SIH_2025_Tech_Pioneers_High_Quality.pdf`
 * `SIH_2025_Team_SafeSecure.pdf`

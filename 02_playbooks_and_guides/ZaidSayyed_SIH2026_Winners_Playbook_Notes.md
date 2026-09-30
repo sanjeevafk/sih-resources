@@ -164,9 +164,9 @@ The 45-team AICTE quota math, faculty vs jury psychology, 7-day action plan, 10-
 
 | # | PS ID | Theme | Title | Team | Takeaway | Local copy |
 |---|---|---|---|---|---|---|
-| 1 | SIH25070 | Miscellaneous · Software | Secure Data Wiping for Trustworthy IT Asset Recycling | Team Niet - SafeSecure | Every risk sits next to its own mitigation; naming your weakness makes the rest believable | `03_winning_presentations_reference/ZaidSayyed_SIH25_PPT1_TeamSafeSecure_DataWiping.pdf` |
-| 2 | SIH25175 | Space Technology · Software | MAITRI: An AI Assistant for the Well-Being of Astronauts | Team Zillion Minds | A "What ifs" failure block (AI misreads emotion, hardware dies mid-mission, astronaut refuses) | `03_winning_presentations_reference/ZaidSayyed_SIH25_PPT2_ZillionMinds_MAITRI.pdf` |
-| 3 | SIH25071 | Disaster Management · Software | AI-Based Rockfall Prediction and Alert System for Open-Pit Mines | Team TechPioneers | Splits feasibility into technical/economic/operational + lists unsolved problems + a business model — most adaptable | `03_winning_presentations_reference/ZaidSayyed_SIH25_PPT3_TechPioneers_Rockfall.pdf` |
+| 1 | SIH25070 | Miscellaneous · Software | Secure Data Wiping for Trustworthy IT Asset Recycling | Team Niet - SafeSecure | Every risk sits next to its own mitigation; naming your weakness makes the rest believable | `03_winning_presentations_reference/SIH_2025_Team_SafeSecure.pdf` |
+| 2 | SIH25175 | Space Technology · Software | MAITRI: An AI Assistant for the Well-Being of Astronauts | Team Zillion Minds | A "What ifs" failure block (AI misreads emotion, hardware dies mid-mission, astronaut refuses) | `03_winning_presentations_reference/ZaidSayyed_SIH25_PPT2_ZillionMinds_MAITRI.pdf` (unique download) |
+| 3 | SIH25071 | Disaster Management · Software | AI-Based Rockfall Prediction and Alert System for Open-Pit Mines | Team TechPioneers | Splits feasibility into technical/economic/operational + lists unsolved problems + a business model — most adaptable | `03_winning_presentations_reference/SIH_2025_Tech_Pioneers_High_Quality.pdf` |
 
 Online sources: `sih-winning-ppt-1.pdf`, `sih-winning-ppt-2.pdf`, `sih-winning-ppt-3.pdf` on `zaidsayyed.in/sih/`.
 
