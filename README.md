@@ -47,3 +47,12 @@ Preparation frameworks, diagramming guidelines, and hackathon playbooks:
 * `SIH_2023_Presentation_Clean.pdf`
 * `SIH_2023_Techies_Travel_High_Quality.pdf`
 * `Vadodara_Hackathon_6_0_Anonymous_Bits.pdf`
+
+### 04_assets
+Brand/logo imagery and misc non-PDF reference material:
+* `sih-logo.jpeg`: Smart India Hackathon logo.
+* `sih-winners.jpeg`: SIH winners banner image.
+
+### archive
+Preserved contents from the former `SIH-Winners-PPt-and-Sources` repository (now de-repo'd and integrated here):
+* `SIH-Winners-PPt-and-Sources-README.md`: The original README of that repository, kept for provenance.
