@@ -22,9 +22,14 @@ Preparation frameworks, diagramming guidelines, and hackathon playbooks:
 * `SIH_Winners_Vault_Techdoodles.pdf`: Hackathon strategies and execution tactics.
 * `github_repositories_to_boost_your_hackathon.pdf`: Open-source repositories and starter templates for hackathons.
 * `SIH_Resources.docx.pdf` / `SIH_Resources-2026-13-09-02-33-14.docx`: Additional resource lists and reference links.
+* `ZaidSayyed_SIH2026_Winners_Playbook_Notes.md`: Full scraped notes with source links from [zaidsayyed.in/blog/sih-2026](https://zaidsayyed.in/blog/sih-2026) — winner's playbook: tournament funnel, 26 jury questions, the 6-slide screening deck breakdown, and winning-PPT analysis.
+* `ZaidSayyed_SIH2026_Internal_Round_Notes.md`: Full scraped notes with source links from [zaidsayyed.in/blog/sih-2026-internal-hackathon-guide](https://zaidsayyed.in/blog/sih-2026-internal-hackathon-guide) — college internal round playbook: 45-team quota math, faculty psychology, 7-day action plan, viva defense sheet, and 18 jury questions.
 
 ### 03_winning_presentations_reference
-19 reference decks from winning teams across SIH 2023 to 2025:
+19 reference decks from winning teams across SIH 2023 to 2025, plus 3 SIH 2025 decks from Zaid Sayyed's SIH 2026 playbook blog:
+* `ZaidSayyed_SIH25_PPT1_TeamSafeSecure_DataWiping.pdf`: SIH25070 · Secure Data Wiping for Trustworthy IT Asset Recycling · Team Niet - SafeSecure
+* `ZaidSayyed_SIH25_PPT2_ZillionMinds_MAITRI.pdf`: SIH25175 · MAITRI: An AI Assistant for the Well-Being of Astronauts · Team Zillion Minds
+* `ZaidSayyed_SIH25_PPT3_TechPioneers_Rockfall.pdf`: SIH25071 · AI-Based Rockfall Prediction and Alert System for Open-Pit Mines · Team TechPioneers
 * `SIH_2025_GeoGuards_High_Quality.pdf`
 * `SIH_2025_Tech_Pioneers_High_Quality.pdf`
 * `SIH_2025_Team_SafeSecure.pdf`
